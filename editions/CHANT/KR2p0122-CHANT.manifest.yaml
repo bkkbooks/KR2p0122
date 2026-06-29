@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR2p0122/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0122/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 湖北雲夢大墳頭一號漢墓木牘
+  identifiers:
+    krp: KR2p0122
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0122.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0122_001-CHANT.yaml, hash: 'sha256:7a2493201e11fb09ae0108cc42d32917cbd0288a8e7eee6837273dfc8beac162'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0122_001-CHANT.markers.yaml, hash: 'sha256:32004a8f3515dbefbf95168587af68f4ec607ab220117940b334d63ab7027f6b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0122_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 211
+  label: 散見簡牘合輯湖北雲夢大墳頭一號漢墓木牘
+  type: section
+  level: 1
+hash: sha256:0e7ee27bdf16b732256cfd7393731e9e108a8172abea32f0e2ba4afe7985e8e9
