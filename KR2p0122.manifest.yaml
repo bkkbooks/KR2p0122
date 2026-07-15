@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0122/v1
 canonical_location: https://kanripo.org/bkk/KR2p0122/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 湖北雲夢大墳頭一號漢墓木牘
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0122_001.yaml, hash: 'sha256:7a2493201e11fb09ae0108cc42d32917cbd0288a8e7eee6837273dfc8beac162'}
+  - {seq: 1, filename: KR2p0122_001.yaml, hash: 'sha256:0bacd9b55e494916137c2c3f03f7982003de2bee812e610840774c897b148d4c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0122_001.markers.yaml, hash: 'sha256:6295c4d06a4824402e469e01014141c13eba8a35109e0612cfb148868a107bec'}
+  - {seq: 1, role: markers, filename: assets/KR2p0122_001.markers.yaml, hash: 'sha256:362d7f7907042cc57a7336ca3f41e773c7b2677764a609b7d38e72f121d5d9c3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯湖北雲夢大墳頭一號漢墓木牘
   type: section
   level: 1
-hash: sha256:69e29997c7073ba3646873fa8bb43df79ed2bf3cef5159706175ae44391b2896
+hash: sha256:9d6262609c3fec0605eb125f5433f6ed3690a2955e6a648b1554d872cea73703
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
